@@ -1,7 +1,7 @@
 ---
 layout: layout-post.njk
-title: Call of Duty Modern Warfare 1019
-description: Descripción de Modern Warfare 1019
+title: Call of Duty Modern Warfare 2019
+description: Descripción de Modern Warfare 2019
 tags: ["blog", "peliculas"]
 date: "2019"
 ---
