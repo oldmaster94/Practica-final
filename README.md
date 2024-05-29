@@ -39,3 +39,5 @@
 Tambien puedes ver mi Curso de _11ty_ en _YouTube_, da clic a la siguiente imagen. 👇🏻
 
 [![Curso Eleventy](code/img/curso-youtube.png)](https://www.youtube.com/watch?v=yCF9l4_E5rI)
+
+[Página wiki en Github](https://oldmaster94.github.io/Practica-final/modo-zombies/) Jared Loza Luna
