@@ -2,7 +2,7 @@
 layout: layout-post.njk
 title: Call of Duty 1
 description: Descripción del título Call of Duty 2003
-tags: ["blog", "libros"]
+tags: ["blog", "libros", infinity]
 date: "2003"
 ---
 

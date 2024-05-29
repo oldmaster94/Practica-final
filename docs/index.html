@@ -5,33 +5,58 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Saga de Call of Duty</title>
   <meta name="description" content="Meta descripción de la página de inicio">
-  <link rel="icon" href="/img/favicon.png">
+  <link rel="icon" href="/img/cod-icon.png">
   <link rel="stylesheet" href="/css/styles.css">
 </head>
 <body>
   <header>
     <a href="https://www.callofduty.com/es" target="_blank">
         <img src="/img/cod-logo.svg" alt="cod" width="300">
-    _
+    <p></p>
     <nav class="menu">
   <ul>
     <li><a href="/">Inicio</a></li>
+    <li><a href="/acerca">Acerca</a></li>
     <li><a href="/modo-zombies">Modo Zombies</a></li>
     <li><a href="/desarrolladores">Desarrolladores</a></li>
     <li><a href="/entregas">Entregas</a></li>
   </ul>
 </nav>
+
+<style>
+    #suggestions {
+      list-style: none;
+      padding: 0;
+    }
+    #suggestions li {
+      margin: 5px 0;
+    }
+    #suggestions a {
+      text-decoration: none;
+      color: orange;
+    }
+    #suggestions a:hover {
+      text-decoration: underline;
+    }
+  </style>
+
+  <div>
+      <h1></h1>
+  <input type="text" id="searchInput" placeholder="">
+  <ul id="suggestions"></ul>
+
+  <script src="/js/busqueda.js"></script>
+</div>
     
   </header>
   <main>
     
 <h1>Saga de Call of Duty</h1>
 <p>
-  En está página se hablará sobre toda la Saga de Videojuegos con el nombre de Call of Duty, que empezó desde el 2003 y cada entrega tiene un tiempo de salida de 1 año entre cada uno, lo que quiere decir que llevan existiendo 20 entregas en total por el momento en 2024.
+  En está página se hablará sobre toda la Saga de Videojuegos con el nombre de Call of Duty, que empezó desde el 2003 y cada entrega tiene un tiempo de salida de 1 año entre cada uno, lo que quiere decir que llevan existiendo más de 20 entregas en total por el momento en 2024.
 </p>
-<div>
-  <img src="/img/Saga.jpg" alt="Eleventy">
-  
+<div class="image-container">
+  <img src="/img/Saga.jpg" alt="Saga">
   
 </div>
 <hr>

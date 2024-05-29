@@ -2,7 +2,7 @@
 layout: layout-post.njk
 title: Call of Duty World At War
 description: Descripción de World At War
-tags: ["blog", "libros"]
+tags: ["blog", "libros", "zombies", treyarch]
 date: "2008"
 ---
 

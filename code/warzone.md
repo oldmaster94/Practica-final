@@ -2,7 +2,7 @@
 layout: layout-post.njk
 title: Call of Duty Warzone
 description: Descripción de Warzone
-tags: ["blog", "libros"]
+tags: ["blog", "libros", "zombies"]
 date: "2020"
 ---
 

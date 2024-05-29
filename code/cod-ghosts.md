@@ -2,7 +2,7 @@
 layout: layout-post.njk
 title: Call of Duty Ghosts
 description: Descripción de Ghosts
-tags: ["blog", "libros"]
+tags: ["blog", "libros", infinity]
 date: "2013"
 ---
 

@@ -2,7 +2,7 @@
 layout: layout-post.njk
 title: Call of Duty Modern Warfare 3
 description: Descripción de Modern Warfare 3
-tags: ["blog", "peliculas"]
+tags: ["blog", "peliculas", infinity",sledgehammer]
 date: "2011"
 ---
 

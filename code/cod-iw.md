@@ -2,7 +2,7 @@
 layout: layout-post.njk
 title: Call of Duty Infinite Warfare
 description: Descripción de Infinite Warfare
-tags: ["blog", "libros"]
+tags: ["blog", "libros", "zombies", infinity]
 date: "2016"
 ---
 

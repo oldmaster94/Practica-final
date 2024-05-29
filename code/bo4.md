@@ -2,7 +2,7 @@
 layout: layout-post.njk
 title: Call of Duty Black Ops 4
 description: Descripción de la reseña de la película 1
-tags: ["blog", "peliculas"]
+tags: ["blog", "peliculas", "zombies", treyarch]
 date: "2018"
 ---
 

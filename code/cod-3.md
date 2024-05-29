@@ -2,7 +2,7 @@
 layout: layout-post.njk
 title: Call of Duty 3
 description: Descripción de Call of duty 3
-tags: ["blog", "libros"]
+tags: ["blog", "libros", treyarch]
 date: "2006"
 ---
 

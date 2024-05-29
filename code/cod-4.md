@@ -2,7 +2,7 @@
 layout: layout-post.njk
 title: Call of Duty 4 Modern Warfare
 description: Descripción de Call of Duty 4
-tags: ["blog", "libros"]
+tags: ["blog", "libros", infinity]
 date: "2007"
 ---
 

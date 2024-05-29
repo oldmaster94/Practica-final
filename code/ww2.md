@@ -2,7 +2,7 @@
 layout: layout-post.njk
 title: Call of Duty WWII
 description: Descripción de WWII
-tags: ["blog", "libros"]
+tags: ["blog", "libros", "zombies",sledgehammer]
 date: "2017"
 ---
 

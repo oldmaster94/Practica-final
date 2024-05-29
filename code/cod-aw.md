@@ -2,7 +2,7 @@
 layout: layout-post.njk
 title: Call of Duty Advanced Warfare
 description: Descripción de Advanced Warfare
-tags: ["blog", "libros"]
+tags: ["blog", "libros", "zombies",sledgehammer]
 date: "2014"
 ---
 

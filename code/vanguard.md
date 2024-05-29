@@ -2,7 +2,7 @@
 layout: layout-post.njk
 title: Call of Duty Vanguard
 description: Descripción de Vanguard
-tags: ["blog", "libros"]
+tags: ["blog", "libros", "zombies",sledgehammer]
 date: "2021"
 ---
 

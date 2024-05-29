@@ -2,7 +2,7 @@
 layout: layout-post.njk
 title: Call of Duty Modern Warfare 2
 description: Descripción de Modern Warfare 2
-tags: ["blog", "peliculas"]
+tags: ["blog", "peliculas", infinity]
 date: "2009"
 ---
 

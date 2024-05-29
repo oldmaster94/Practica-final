@@ -2,7 +2,7 @@
 layout: layout-post.njk
 title: Call of Duty Modern Warfare 2019
 description: Descripción de Modern Warfare 2019
-tags: ["blog", "peliculas"]
+tags: ["blog", "peliculas", infinity]
 date: "2019"
 ---
 

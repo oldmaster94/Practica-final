@@ -2,6 +2,7 @@
   box-sizing: border-box;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
 body {
   margin: 0 auto;
   padding: 1rem;
@@ -10,14 +11,23 @@ body {
   border: medium solid rgb(255, 145, 0);
   text-align: center;
   font-family: system-ui, sans-serif;
-  background-color: rgb(0, 0, 0);
+  background-image: url('../img/interf.jpg');
+  background-color: black;
+    background-size: cover;
+  font-family: "Roboto Mono", monospace;
   color: #f39600;
+  
 }
 h1,h2,h3,h4,h5{
 
   color: white;
+  
 }
+h3, h4
+{
 
+  border: medium solid rgba(255, 255, 255, 0.608);
+}
 p{
 
   color: #f39600;
@@ -28,7 +38,7 @@ a {
   transition: all 0.3s ease-out;
 
   &:hover {
-    color: red;
+    color: rgb(136, 71, 3);
   }
 }
 
@@ -40,8 +50,10 @@ hr {
 img {
   display: block;
   margin: 0 auto;
-  
+  height: auto;
+  max-width: 100%;
 }
+
 
 p,
 li {

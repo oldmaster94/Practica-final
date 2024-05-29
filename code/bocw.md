@@ -2,7 +2,7 @@
 layout: layout-post.njk
 title: Call of Duty Black Ops Cold War
 description: Descripción de la reseña de la película 1
-tags: ["blog", "peliculas"]
+tags: ["blog", "peliculas", "zombies", treyarch", "raven"]
 date: "2020"
 ---
 

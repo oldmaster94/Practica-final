@@ -2,7 +2,7 @@
 layout: layout-post.njk
 title: Call of Duty 2
 description: Descripción del título Call of Duty 2 2005
-tags: ["blog", "libros"]
+tags: ["blog", "libros", infinity]
 date: "2005"
 ---
 
