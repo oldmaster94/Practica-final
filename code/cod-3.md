@@ -13,7 +13,7 @@ date: "2006"
 "Call of Duty 3", desarrollado por Treyarch y publicado por Activision en 2006, es la tercera entrega principal de la franquicia. Al igual que sus predecesores, está ambientado en la Segunda Guerra Mundial. La historia se centra en la campaña de Normandía y sigue a cuatro diferentes ejércitos aliados: estadounidense, británico, canadiense y polaco, a través de una serie de operaciones claves durante la liberación de Francia.
 
 
-<img src="/img/Cod3i.jpg" alt="cod" width="600" height="auto"/>
+<img src="/img/cod3i.jpg" alt="cod" width="600" height="auto"/>
 
 #### Campaña estadounidense
 
